@@ -39,8 +39,8 @@ Before running the project, ensure that you have the following:
 1. Clone the repository or download the source code:
 
 ```
-git clone <repository-url>
-cd youtube-clone
+git clone https://github.com/maheshbhosale05/YouTubeClone.git
+cd YouTubeClone
 ```
 
 2. Install the project dependencies:
